@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @janpajic
-- 👀 I’m interested in AI, security &
-- 🌱 I’m currently learning C#, .NET 5.0, DevOps & Chromium
+- 👀 I’m interested in AI & Security
+- 💚 I love Start ups
+- 🌱 I’m currently learning C#, .NET 5.0, DevOps, HTML/CSS, JavaScript & Chromium
 - 📫 Stay in touch: janpajic@gmail.com / https://www.linkedin.com/in/jan-paji%C4%87/
