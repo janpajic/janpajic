@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Hub.Sencai (Blazor on .NET 6.0.201 for compiling perfect builds)**
 
-- 💬 you can Ask me about **Strategy, Marketing, Graphic, Project management, Project Financising, Innovations & Start-ups**
+- 💬 you can Ask me about **Strategy, Marketing, Graphic (inc. CAD/CAM, Project management, Project Financising, Innovations & Start-ups**
 
 - 📫 How to reach me **janpajic@gmail.com**
 
