@@ -32,10 +32,13 @@ Explore more at my website: 🌍 [pajic.dev](https://www.pajic.dev)!
 
 **Cloud & DevOps** ☁️
 - **Cloud Providers**: AWS, GCP, Azure
-- **Containers**: Docker, Kubernetes, AWS EKS
+- **Containers**: Docker, Kubernetes, AWS EKS, Podman
 - **Infrastructure as Code**: Terraform, CloudFormation
 - **Orchestration & Management**: Flux, Karpenter
 - **Monitoring & Logging**: Prometheus, Grafana, ELK stack, AWS CloudWatch
+
+**Virtualization & Containerization** 🖥️  
+- **Virtualization**: VMware, VirtualBox, Proxmox, Hyper-V    
 
 **Development & Testing Tools** 🧪
 - **API Testing**: Postman, Insomnia
