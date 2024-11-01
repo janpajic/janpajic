@@ -1,6 +1,6 @@
 # Hi there, my name is Jan Pajić 👋✨
 
-🌱 With a strong background as a **Startup Manager**, I've helped nearly 60 startups take off, integrating new projects and products into established corporations across Central Europe. This experience ignited my passion for IT, leading me to develop a strong skill set in **project management**, **cloud infrastructure**, **DevSecOps automation** and **app development**. Now, with over 7 years in IT, I help businesses bridge technical challenges with solutions that are both innovative and scalable.
+🌱 With a strong background as a **Startup Manager**, I've helped 19 startups take off, integrating new projects and products into established corporations across Central Europe. This experience ignited my passion for IT, leading me to develop a strong skill set in **project management**, **cloud infrastructure**, **DevSecOps automation** and **app development**. Now, with over 7 years in IT, I help businesses bridge technical challenges with solutions that are both innovative and scalable.
 
 ---
 
